@@ -1,5 +1,17 @@
-# Notion Clone
-<h1>Notion Clone</h1>
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGtXGrkROob6h2fKDTVnLYIJQuS_sFJ2QSsT9ggg8LA&s" height="80px" width="80px"/>
+  <h1>Notion Clone</h1>
+   <p align="center">
+   Discover the Evolution of Technology through Time
+    <br />
+    <a href="">View Demo💻</a>
+    ·
+    <a href="https://github.com/JefferMarcelino/Notion-clone/issues">Report Bug🐞</a>
+    ·
+    <a href="https://github.com/JefferMarcelino/tech-timeline/issues">Request Feature🏷️</a>
+  </p>
+</div>
+
 Welcome to the Notion Clone project! This is a web application that replicates some of the core functionalities of Notion, allowing you to write and format text with features such as bold, italic, headings, bulleted lists, and numbered lists. The project is built using React, Typescript, Vite, and Tiptap.
 
 ## Features
@@ -30,14 +42,13 @@ To run the project locally on your machine, follow these steps:
 4. Start the development server: `yarn dev`
 5. Open your web browser and visit: `http://localhost:3000`
 
-## Issues
-
-If you encounter any bugs, have questions, or want to suggest improvements, please [open an issue](https://github.com/your-username/notion-clone/issues) on the project's GitHub repository.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
+<ul style="liststyle="none"" >
+  <li><a href="https://www.linkedin.com/in/claudio-tomas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </li>
+     <li><a href = "mailto:ccaducarlos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
+</ul>
 
-Made with 🫶🏽 by Cláudio Tomás
