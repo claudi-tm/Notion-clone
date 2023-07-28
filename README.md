@@ -4,7 +4,7 @@
    <p align="center">
    Discover the Evolution of Technology through Time
     <br />
-    <a href="">View Demo💻</a>
+    <a href="https://notion-clone-tawny.vercel.app/">View Demo💻</a>
     ·
     <a href="https://github.com/JefferMarcelino/Notion-clone/issues">Report Bug🐞</a>
     ·
@@ -51,4 +51,5 @@ This project is licensed under the [MIT License](LICENSE).
   <li><a href="https://www.linkedin.com/in/claudio-tomas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </li>
      <li><a href = "mailto:ccaducarlos@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></li>
 </ul>
-
+Project link: [https://github.com/claudi-tm/Notion-clone](https://github.com/claudi-tm/Notion-clone)
+Production:  [https://notion-clone-tawny.vercel.app/](https://notion-clone-tawny.vercel.app/)
