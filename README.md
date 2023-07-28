@@ -1,5 +1,5 @@
 # Notion Clone
-
+<h1>Notion Clone</h1>
 Welcome to the Notion Clone project! This is a web application that replicates some of the core functionalities of Notion, allowing you to write and format text with features such as bold, italic, headings, bulleted lists, and numbered lists. The project is built using React, Typescript, Vite, and Tiptap.
 
 ## Features
